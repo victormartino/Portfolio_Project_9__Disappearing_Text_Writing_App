@@ -1,6 +1,6 @@
 # Keep It Up - Python Writing App
 
-**Keep It Up** is a fun and engaging Python writing app designed to boost your writing productivity while keeping you focused. Whether you're working on a novel, an article, or simply want to improve your typing skills, this app has got you covered.
+**Keep It Up** is a 😃 fun and engaging Python writing app designed to boost your writing productivity while keeping you focused. Whether you're working on a novel, an article, or simply want to improve your typing skills, this app has got you covered.
 
 ## Table of Contents
 - Introduction
@@ -16,13 +16,13 @@ Writing is a creative process, but sometimes it's easy to get stuck or distracte
 
 ## Features
 
-- **Clean Interface**: The app boasts a clean and intuitive interface that reduces distractions, allowing you to focus solely on your writing.
+- **Clean Interface** ✨: The app boasts a clean and intuitive interface that reduces distractions, allowing you to focus solely on your writing.
 
-- **Character Count**: Keep track of your progress with the real-time character count feature, motivating you to keep typing and meet your writing goals.
+- **Character Count** 🔢: Keep track of your progress with the real-time character count feature, motivating you to keep typing and meet your writing goals.
 
-- **Inactivity Check**: To ensure you stay engaged, the app detects periods of inactivity. If no typing occurs for a set duration, the text is cleared, giving you a fresh start.
+- **Inactivity Check** ⏱️: To ensure you stay engaged, the app detects periods of inactivity. If no typing occurs for a set duration, the text is cleared, giving you a fresh start.
 
-- **Elapsed Time**: The timer function helps you monitor your writing session's duration, adding a competitive edge to beat your previous writing records.
+- **Elapsed Time** ⏲️: The timer function helps you monitor your writing session's duration, adding a competitive edge to beat your previous writing records.
 
 ## Getting Started
 
