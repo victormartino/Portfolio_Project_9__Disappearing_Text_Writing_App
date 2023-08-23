@@ -38,7 +38,7 @@ To get started with **Keep It Up**:
 Follow these steps to use **Keep It Up**:
 
 1. Run the app by using the following command:
-   "python keep_up_app.py"
+   "python main.py"
    
 2. The app window will open, displaying the "Keep It Up" label and a large text input area.
 
